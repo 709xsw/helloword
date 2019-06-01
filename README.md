@@ -1,2 +1,2 @@
 # helloword
-the first i come to the github
+the first day i come to the github
