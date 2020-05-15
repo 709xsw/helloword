@@ -1,0 +1,30 @@
+author:xsw   gist: write a simple os kernel
+
+1、the content(Bran's Kernel Development Tutorial)
+  1) setting up development envirnment
+  2) the basics: setting the stage for GRUB
+  3) link in other files and calling main()
+  4) printing to the screen 
+  5) setting up a custom Global Descriptor Table(GDT)
+  6) setting up a custom Interrupt Descriptor Table(IDT)
+  7) setting up a Interrupt Service Routines(ISRs) to handle your Interrupts and IRQs
+  8) remapping the Programmable Interrupt Controllers(PICs) to new IDT entries
+  9) installing and servicng IRQs
+  10) managing the Programmable Interval Timer/System Clock(PIT)
+  11) managing the Keyboard IRQs and Keyboard Data
+  12) ...and the rest is up to you!
+  
+  Table of contents(JamesM's kernel development tutorials)
+  1) environment setup
+  2) genesis
+  3) the screen
+  4) the GDT and IDT
+  5) IRQs and the PIT
+  6) Paging 
+  7) the heap
+  8) the vfs and the initrd
+  9) multitasking
+  10) user mode
+  
+  
+  
